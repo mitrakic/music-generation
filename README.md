@@ -1,6 +1,12 @@
 # music-generation
 
-This repo contains code that automatically arranges audio tracks. The audio tracks are in folders 1 and 2. Additionally, the songs are mixed with excerpts from important speeches and interviews, contained in the speeches folder. 
+This repo contains code that automatically arranges audio tracks. The audio tracks are in folders 1 and 2. Additionally, the songs are mixed with excerpts from important speeches and interviews, contained in the speeches folder. The speeches come from the following links:
+
+- https://www.youtube.com/watch?v=mocXSBxaPK4&ab_channel=NowThisNews
+- https://www.youtube.com/watch?v=oaGlXvGUx_g&ab_channel=LuisArgueta
+- https://www.youtube.com/watch?v=JnVSklVO-t4&ab_channel=DarnellNy
+- https://www.youtube.com/watch?v=dNisZepA8ns&ab_channel=Cassius
+- https://www.youtube.com/watch?v=RbtgRJ5hK7o&ab_channel=footagefarm
 
 Music.ipynb is a Jupyter notebook that allows the user to specify how to arrange the tracks. In the current implementation, the user inputs a photo, and RGB values from this photo are used as the parameters by which the tracks are arranged. 
 
