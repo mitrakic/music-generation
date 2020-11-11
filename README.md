@@ -10,8 +10,10 @@ Users can change the input, tweak the parameters used to make the track, add new
 
 The program also requires that the following python libraries are installed:
 
-pydub
-numpy
-ffmpeg
-simpleaudio
-pillow
+- pydub
+- numpy
+- ffmpeg
+- simpleaudio
+- pillow
+
+Finally, the examples folder contains sample inputs and outputs from the program.
